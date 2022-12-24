@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/shopping-app/static/css/main.beabed09.css",
+    "main.js": "/shopping-app/static/js/main.d4226848.js",
+    "static/media/cart.svg": "/shopping-app/static/media/cart.1725a2de2c31c96df30a93924dfd9f57.svg",
+    "index.html": "/shopping-app/index.html",
+    "main.beabed09.css.map": "/shopping-app/static/css/main.beabed09.css.map",
+    "main.d4226848.js.map": "/shopping-app/static/js/main.d4226848.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.beabed09.css",
+    "static/js/main.d4226848.js"
+  ]
+}
